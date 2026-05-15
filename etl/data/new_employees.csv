@@ -1,0 +1,16 @@
+EmployeeID,FirstName,LastName,Email,Phone,DateOfBirth,Gender,NationalID,HireDate,DepartmentName,JobTitle,BasicSalary,HousingAllowance,TransportAllowance,MedicalAllowance,City,Country
+EMP-2001,Abdullahi,Yusuf,a.yusuf@newbatch.com,08111000001,1992-04-10,M,NGA-2001-1992,2024-02-01,Information Technology,Junior Database Administrator,180000,55000,30000,25000,Lagos,Nigeria
+EMP-2002,Chidinma,Okonkwo,c.okonkwo@newbatch.com,08111000002,1994-08-22,F,NGA-2002-1994,2024-02-01,Human Resources,HR Officer,300000,80000,35000,28000,Lagos,Nigeria
+EMP-2003,Rotimi,Fashola,r.fashola@newbatch.com,08111000003,1990-12-05,M,NGA-2003-1990,2024-02-01,Finance & Accounts,Finance Analyst,370000,100000,42000,33000,Lagos,Nigeria
+EMP-2004,Aisha,Bello,a.bello@newbatch.com,08111000004,1996-03-17,F,NGA-2004-1996,2024-03-01,Data & Analytics,Data Engineer,430000,110000,45000,36000,Abuja,Nigeria
+EMP-2005,Chukwudi,Nwofor,c.nwofor@newbatch.com,08111000005,1991-07-29,M,NGA-2005-1991,2024-03-01,Operations,Operations Officer,290000,72000,32000,22000,Port Harcourt,Nigeria
+EMP-2006,Zainab,Abubakar,z.abubakar@newbatch.com,08111000006,1995-11-14,F,NGA-2006-1995,2024-03-01,Information Technology,Software Developer,360000,95000,40000,32000,Lagos,Nigeria
+EMP-2007,Emeka,Obi,e.obi2@newbatch.com,08111000007,1988-01-30,M,NGA-2007-1988,2024-04-01,Data & Analytics,Data Engineer,440000,112000,46000,37000,Lagos,Nigeria
+EMP-2008,Hadiza,Sadiq,h.sadiq@newbatch.com,08111000008,1993-06-18,F,NGA-2008-1993,2024-04-01,Finance & Accounts,Finance Analyst,375000,98000,42000,33000,Abuja,Nigeria
+EMP-2009,Sunday,Adebayo,s.adebayo@newbatch.com,08111000009,1997-09-03,M,NGA-2009-1997,2024-05-01,Human Resources,HR Officer,295000,76000,34000,26000,Ibadan,Nigeria
+EMP-2010,Ngozi,Chukwu,n.chukwu@newbatch.com,08111000010,1990-02-25,F,NGA-2010-1990,2024-05-01,Information Technology,Software Developer,355000,93000,40000,32000,Lagos,Nigeria
+EMP-2011,Musa,Danjuma,m.danjuma@newbatch.com,08111000011,1985-10-12,M,NGA-2011-1985,2024-06-01,Operations,Operations Officer,285000,70000,31000,21000,Kaduna,Nigeria
+EMP-2012,Oluwaseun,Adeola,o.adeola@newbatch.com,08111000012,1994-04-07,F,NGA-2012-1994,2024-06-01,Data & Analytics,Data Engineer,425000,108000,44000,35000,Lagos,Nigeria
+EMP-2013,Ikechukwu,Eze,i.eze@newbatch.com,08111000013,1992-12-20,M,NGA-2013-1992,2024-07-01,Information Technology,Junior Database Administrator,175000,53000,29000,24000,Enugu,Nigeria
+EMP-2014,Rashida,Umar,r.umar@newbatch.com,08111000014,1998-07-08,F,NGA-2014-1998,2024-07-01,Human Resources,HR Officer,288000,73000,33000,25000,Abuja,Nigeria
+EMP-2015,Babatunde,Olayinka,b.olayinka@newbatch.com,08111000015,1989-05-15,M,NGA-2015-1989,2024-08-01,Finance & Accounts,Finance Analyst,380000,102000,43000,34000,Lagos,Nigeria
