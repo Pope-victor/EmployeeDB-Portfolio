@@ -236,12 +236,12 @@ Additional:           Row-Level Security (dept filter) + TDE (AES-256)
 
 ## 👤 Author
 
-**[Your Name]**
+**[Victor Ibojie]**
 Junior Database Administrator | Data Engineering Enthusiast
 
-- 📧 youremail@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 📧 ibojievictor@outlook.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-ibojie-519066384?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- 🐙 [GitHub](https://github.com/Pope-victor)
 
 ---
 
